@@ -22,7 +22,7 @@
     1.将用于连接Kubernetes的config文件放到当前路径，代码中为ysr-kubeconfig
     
     4.进入到目录中启动运行服务
-    python3 manage.py runserver 0.0.0:8092  
+    python3 manage.py runserver 0.0.0.0:8092  
  
 
 <h3>访问方式</h3>
